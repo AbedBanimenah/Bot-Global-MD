@@ -1,0 +1,19 @@
+{
+  "name": "BOT-DARK-MAN",
+  "description": "A whatsApp bot based on Baileys linrary with Multi Device support",
+  "repository": "https://github.com/Dark-Man747/BOT-DARK-MAN",
+  "logo": "https://wallpapercave.com/wp/wp2265067.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+  "stack": "heroku-22"
+}
