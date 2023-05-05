@@ -1,6 +1,6 @@
 # BOT-DARK-MAN
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dark-Man747/BOT-DARK-MAN)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dark-Man747/Bot-Global-MD)
 
 ## ✧✧✧ CMD Deployment Method (Without downloading this code as .zip)
 ```
