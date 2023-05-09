@@ -4,7 +4,7 @@
 
 ## ✧✧✧ CMD Deployment Method (Without downloading this code as .zip)
 ```
-git clone https://github.com/Dark-Man747/BOT-DARK-MAN.git
+git clone https://github.com/Dark-Man747/Bot-Global-MD.git
 cd BOT-DARK-MAN
 npm i
 npm start
@@ -30,7 +30,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone github.com/Dark-Man747/BOT-DARK-MAN
+git clone https://github.com/Dark-Man747/Bot-Global-MD
 cd BOT-DARK-MAN
 npm i
 npm start
