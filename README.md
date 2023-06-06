@@ -21,7 +21,7 @@
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
+<a href="https://wa.me/96894116692"><img src="https://img.shields.io/badge/Contact Dark Man-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/Har7Z8RPqDO0jZP2FeRApN"><img src="https://img.shields.io/badge/Join Official-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/@9TL"><img src="https://img.shields.io/badge/Subscribe Dark Man-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
 </p>
