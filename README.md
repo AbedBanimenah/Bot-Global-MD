@@ -19,7 +19,7 @@
 <a href="https://github.com/Dark-Man747/Bot-Global-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
-## ```Connect With Me```
+## ```تواصل معي :```
 <p align="center">
 <a href="https://wa.me/96894116692"><img src="https://img.shields.io/badge/Contact Dark Man-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/Har7Z8RPqDO0jZP2FeRApN"><img src="https://img.shields.io/badge/Join Official-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
