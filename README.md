@@ -25,3 +25,6 @@
 <a href="https://chat.whatsapp.com/Har7Z8RPqDO0jZP2FeRApN"><img src="https://img.shields.io/badge/Join Official-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/@9TL"><img src="https://img.shields.io/badge/Subscribe Dark Man-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
 </p>
+
+  
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-MULTIAUTH-QR-SCANER)
