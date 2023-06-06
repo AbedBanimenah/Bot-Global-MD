@@ -1,11 +1,10 @@
 # BOT-DARK-MAN
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dark-Man747/Bot-Global-MD)
 
 ## ✧✧✧ CMD Deployment Method (Without downloading this code as .zip)
 ```
 git clone https://github.com/Dark-Man747/Bot-Global-MD.git
-cd BOT-DARK-MAN
+cd Bot-Global-MD
 npm i
 npm start
 ```
@@ -31,7 +30,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/Dark-Man747/Bot-Global-MD
-cd BOT-DARK-MAN
+cd Bot-Global-MD
 npm i
 npm start
 ```
