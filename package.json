@@ -1,6 +1,6 @@
 {
- "name": "bot-zoro",
- "description": "Multi Device Whatsapp Bot By Fantox",
+ "name": "bot-shanks",
+ "description": "Multi Device Whatsapp Bot By Dark Man",
  "version": "3.0.0",
  "main": "index.js",
  "type": "commonjs",
@@ -18,7 +18,7 @@
   "bot-md",
   "multi-device"
  ],
- "author": "Fantox (FantoX001)",
+ "author": "Dark Man",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "^4.4.0",
